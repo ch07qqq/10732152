@@ -12,5 +12,4 @@
 ## - 測試！輸入print("test")
 ## - 檢視>命令選擇區>輸入jupyter>即可叫出平時熟悉ㄉpython colab畫面
 
-## 0725 notion筆記
-https://www.notion.so/0725-c6e82711a2744885831a50e3d377b26e
+## [0725 notion筆記](https://www.notion.so/0725-c6e82711a2744885831a50e3d377b26e)
