@@ -2,7 +2,7 @@
 
 ## - 安裝插件
 
-![註解 2023-07-25 093312.png]((https://i.imgur.com/UXgFqjo.png))
+![註解 2023-07-25 093312.png](https://i.imgur.com/UXgFqjo.png)
 
 (繁體中文插件)
 
