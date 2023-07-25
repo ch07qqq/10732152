@@ -1,7 +1,7 @@
 # [下載visual studio code](https://code.visualstudio.com/docs/?dv=win)
 
 ## - 安裝插件
-![]([https://i.imgur.com/UXgFqjo.png](https://i.imgur.com/UXgFqjo.png))
+![Untitled]([https://i.imgur.com/UXgFqjo.png](https://i.imgur.com/UXgFqjo.png))
 
 (繁體中文插件)
 
