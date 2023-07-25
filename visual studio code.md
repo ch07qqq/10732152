@@ -1,6 +1,4 @@
-# - 下載visual studio code
-
-[visual studio code](https://code.visualstudio.com/docs/?dv=win)
+# [下載visual studio code](https://code.visualstudio.com/docs/?dv=win)
 
 ## - 安裝插件
 
