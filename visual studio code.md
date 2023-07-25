@@ -2,7 +2,7 @@
 
 ## - 安裝插件
 
-![註解 2023-07-25 093312.png]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d37c9e69-8912-4855-8ab2-39d8bef2f759/%E8%A8%BB%E8%A7%A3_2023-07-25_093312.png](https://i.imgur.com/UXgFqjo.png))
+![註解 2023-07-25 093312.png]((https://i.imgur.com/UXgFqjo.png))
 
 (繁體中文插件)
 
